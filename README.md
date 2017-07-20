@@ -1,19 +1,19 @@
-﻿# mip-dev-wz
+﻿# mip-dev
 
-mip-dev-wz 是ads8业务逻辑组件。
+mip-dev 是ads8业务逻辑组件。
 
 标题|内容
 ----|----
 类型|业务,广告
 支持布局|N/S
-所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-dev-wz/mip-dev-wz.js
+所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-dev/mip-dev.js
 
 ## 示例
 
 ### 基本使用
 
 ```html
-<mip-dev-wz adid="10713"></mip-dev-wz>
+<mip-dev adid="10713"></mip-dev>
 ```
 ## 属性
 
