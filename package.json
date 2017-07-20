@@ -1,9 +1,9 @@
 {
-    "name": "mip-xcy-wz",
+    "name": "mip-dev-wz",
     "version": "1.0.1",
     "description": "ads8业务逻辑组件",
     "author": {
-        "name": "xcy",
+        "name": "dev",
         "email": "luoshiqi@ads8.com",
         "url": "http://www.mipengine.org"
     },
