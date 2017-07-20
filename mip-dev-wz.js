@@ -1,6 +1,6 @@
 /**
- * @file mip-xcy-wz 组件
- * @author luoshiqi
+ * @file mip-dev-wz 组件
+ * @author dev
  */
 
 define(function (require) {
