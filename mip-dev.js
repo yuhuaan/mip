@@ -1,5 +1,5 @@
 /**
- * @file mip-dev-wz 组件
+ * @file mip-dev 组件
  * @author dev
  */
 
