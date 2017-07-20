@@ -6,7 +6,7 @@ mip-dev-wz 是ads8业务逻辑组件。
 ----|----
 类型|业务,广告
 支持布局|N/S
-所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-xcy-wz/mip-dev-wz.js
+所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-dev-wz/mip-dev-wz.js
 
 ## 示例
 
